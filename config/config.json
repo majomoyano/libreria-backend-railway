@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "0208",
+    "database": "libreria",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "jhCxkIIXAzFrVT0SFaxU",
+    "database": "railway",
+    "host": "containers-us-west-64.railway.app",
+    "dialect": "mysql",
+    "url": "mysql://root:jhCxkIIXAzFrVT0SFaxU@containers-us-west-64.railway.app:6305/railway",
+    "port": "6305"
+
+  }
+}
